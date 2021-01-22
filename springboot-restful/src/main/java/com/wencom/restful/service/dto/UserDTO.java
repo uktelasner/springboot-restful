@@ -1,30 +1,21 @@
-package com.wencom.restful.domain;
+package com.wencom.restful.service.dto;
 
 import com.wencom.restful.domain.Enum.SexType;
-import org.hibernate.annotations.CacheConcurrencyStrategy;
 
-import javax.persistence.*;
+import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Size;
 import java.io.Serializable;
-import org.hibernate.annotations.Cache;
 
-@Entity
-@Table(name = "auth_user")
-@Cache(usage = CacheConcurrencyStrategy.NONSTRICT_READ_WRITE)
-public class User implements Serializable {
-    private static final long serialVersionUID = 1L;
+public class UserDTO implements Serializable {
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "sequenceGenerator")
-    @SequenceGenerator(name = "sequenceGenerator")
     private Long id;
 
-    @Column
+    @NotNull
+    @Size(max = 200)
     private String name;
 
-    @Column
     private Integer age;
 
-    @Column
     private Integer sex;
 
     public Long getId() {
@@ -61,7 +52,7 @@ public class User implements Serializable {
 
     @Override
     public String toString() {
-        return "User{" +
+        return "UserDTO{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", age=" + age +

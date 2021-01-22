@@ -19,7 +19,7 @@ public enum  SexType implements EnumClass<Integer> {
     }
 
     @NotNull
-    private static SexType fromId(Integer id) {
+    public static SexType fromId(Integer id) {
         for (SexType st: SexType.values()) {
             if(st.getId().equals(id)) {
                 return st;
