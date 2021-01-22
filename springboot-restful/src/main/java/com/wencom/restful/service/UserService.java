@@ -19,13 +19,14 @@ public class UserService {
     @Autowired
     private UserMapper userMapper;
 
-    public String getUser() {
-        return "wencom";
-    }
-
     public String createUser(UserDTO userDTO) {
         User user = userMapper.toEntity(userDTO);
         userRepository.save(user);
+        return user.toString();
+    }
+
+    public String findUserById(Long userId) {
+        User user = userRepository.findById(userId).get();
         return user.toString();
     }
 }

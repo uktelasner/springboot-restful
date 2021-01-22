@@ -15,14 +15,15 @@ public class UserController {
     @Autowired
     private UserService userService;
 
-    @GetMapping("/user")
-    public String getUser() {
-        return userService.getUser();
-    }
-
     @PostMapping("/user")
     public String createUser(UserDTO userDTO) {
         String result = userService.createUser(userDTO);
+        return result;
+    }
+
+    @GetMapping("/user/{id}")
+    public String getUser(@PathVariable Long id) {
+        String result = userService.findUserById(id);
         return result;
     }
 
