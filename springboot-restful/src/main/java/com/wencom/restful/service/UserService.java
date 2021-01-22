@@ -11,7 +11,7 @@ public class UserService {
 
 
     public String getUser() {
-        return "wencom";
+        return "wencom wang";
     }
 
     public String createUser(User user) {
