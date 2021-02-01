@@ -1,2 +1,2 @@
 # springboot-restful
-a springboot test
+a springboot project with restful api
