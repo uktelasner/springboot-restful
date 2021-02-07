@@ -27,4 +27,16 @@ public class UserController {
         return result;
     }
 
+    @DeleteMapping("/user")
+    public String deleteUser(@RequestParam Long id) {
+        String result = userService.deleteById(id);
+        return result;
+    }
+
+    @PutMapping("/user")
+    public void updateUserById(@RequestParam Long id, UserDTO userDTO) {
+        userService.updateUserById(id, userDTO);
+        System.out.println(id);
+    }
+
 }

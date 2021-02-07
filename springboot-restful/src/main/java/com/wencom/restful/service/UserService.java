@@ -29,4 +29,26 @@ public class UserService {
         User user = userRepository.findById(userId).get();
         return user.toString();
     }
+
+    public String deleteById(Long userId) {
+        try{
+            userRepository.deleteById(userId);
+            return "success";
+        }catch (Exception e) {
+            return "error";
+        }
+    }
+
+    public String updateUserById(Long userId, UserDTO userDTO) {
+        String name = userDTO.getName();
+        Integer age = userDTO.getAge();
+        Integer sex = userDTO.getSex().getId();
+
+        try{
+            userRepository.updateUserById(age, name, sex, userId);
+            return "success";
+        } catch (Exception e) {
+            return e.getMessage();
+        }
+    }
 }
