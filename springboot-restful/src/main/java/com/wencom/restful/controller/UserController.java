@@ -1,15 +1,12 @@
 package com.wencom.restful.controller;
 
-import com.wencom.restful.domain.User;
 import com.wencom.restful.service.UserService;
 import com.wencom.restful.service.dto.UserDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.Map;
-
 @RestController
-@RequestMapping("/api/")
+@RequestMapping("/api")
 public class UserController {
 
     @Autowired
@@ -21,8 +18,8 @@ public class UserController {
         return result;
     }
 
-    @GetMapping("/user/{id}")
-    public String getUser(@PathVariable Long id) {
+    @GetMapping("/user")
+    public String getUser(@RequestParam Long id) {
         String result = userService.findUserById(id);
         return result;
     }
