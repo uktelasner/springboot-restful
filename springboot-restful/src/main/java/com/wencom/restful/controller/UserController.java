@@ -31,9 +31,9 @@ public class UserController {
     }
 
     @PutMapping("/user")
-    public void updateUserById(@RequestParam Long id, UserDTO userDTO) {
-        userService.updateUserById(id, userDTO);
-        System.out.println(id);
+    public String updateUserById(@RequestParam Long id, UserDTO userDTO) {
+        String result = userService.updateUserById(id, userDTO);
+        return result;
     }
 
 }
