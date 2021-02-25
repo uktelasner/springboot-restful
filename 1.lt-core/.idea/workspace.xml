@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="588c4965-7ca9-4456-8b1a-47cbd70e4829" name="完成基本的增删改查" comment="完成基本的增删改查">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wencom/restful/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wencom/restful/repository/UserRepository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="git_springboot" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="git_springboot" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="git_springboot" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="git_springboot: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="git_springboot" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="git_springboot: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="git_springboot" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="git_springboot: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="git_springboot" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="git_springboot: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springboot-restful" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="@RequestParam" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:wencom/springboot-restful.git" />
+      </set>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\PROJECT\2.GitHubRepositories\1.springboot\springboot-restful\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mxe6sKLRHozUSEXibbX5k3pDEF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../1.Company/1.AEPMS" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-restful" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wencom.restful.RestfulApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="588c4965-7ca9-4456-8b1a-47cbd70e4829" name="Default Changelist" comment="" />
+      <created>1610439496292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610439496292</updated>
+      <workItem from="1610439497490" duration="7098000" />
+      <workItem from="1610610542072" duration="1354000" />
+      <workItem from="1611282070717" duration="320000" />
+      <workItem from="1611282536340" duration="11316000" />
+      <workItem from="1611555774334" duration="1278000" />
+      <workItem from="1612166058215" duration="7794000" />
+      <workItem from="1612227737478" duration="329000" />
+      <workItem from="1612684079071" duration="2790000" />
+      <workItem from="1612777143680" duration="38000" />
+    </task>
+    <task id="LOCAL-00001" summary="数据库、实体类">
+      <created>1610445553965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610445553965</updated>
+    </task>
+    <task id="LOCAL-00002" summary="热部署配置：&#10;1.引入pom依赖&#10;2.设置IDEA。单击左上角 File -&gt; Setting -&gt; Build, Execution, Deployment -&gt; compiler, 勾选 Build project automatically&#10;3.windows 系统按快捷键 Shift+Ctrl+Alt+/， 单击 Registry，勾选 compiler.automake.allow.when.app.running&#10;4.重启应用">
+      <created>1611283123449</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611283123449</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1.user实体类的mapper、dto实现&#10;2.保存数据">
+      <created>1611296648833</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611296648833</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1.find user by id">
+      <created>1611298247891</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611298247891</updated>
+    </task>
+    <task id="LOCAL-00005" summary="@RequestParam">
+      <created>1612168663926</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612168663926</updated>
+    </task>
+    <task id="LOCAL-00006" summary="完成基本的增删改查">
+      <created>1612686201364</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612686201364</updated>
+    </task>
+    <task id="LOCAL-00007" summary="完成基本的增删改查">
+      <created>1612686329904</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612686329904</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="数据库、实体类" />
+    <MESSAGE value="热部署配置：&#10;1.引入pom依赖&#10;2.设置IDEA。单击左上角 File -&gt; Setting -&gt; Build, Execution, Deployment -&gt; compiler, 勾选 Build project automatically&#10;3.windows 系统按快捷键 Shift+Ctrl+Alt+/， 单击 Registry，勾选 compiler.automake.allow.when.app.running&#10;4.重启应用" />
+    <MESSAGE value="1.user实体类的mapper、dto实现&#10;2.保存数据" />
+    <MESSAGE value="1.find user by id" />
+    <MESSAGE value="@RequestParam" />
+    <MESSAGE value="完成基本的增删改查" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成基本的增删改查" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="183" key="#Assign_Data_Sources" timestamp="1611284678454">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2472" y="183" key="#Assign_Data_Sources/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1611284678454" />
+    <state x="2472" y="183" key="#Inspections" timestamp="1611286753308">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2472" y="183" key="#Inspections/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1611286753308" />
+    <state x="2388" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610442719927">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2388" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1610442719927" />
+    <state x="2685" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1611284195766">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2685" y="234" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1611284195766" />
+    <state x="2663" y="274" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1610439604186">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2663" y="274" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1610439604186" />
+    <state x="2726" y="414" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1610439563231">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2726" y="414" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1610439563231" />
+    <state x="2391" y="354" key="#xdebugger.evaluate" timestamp="1612685885068">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2391" y="354" key="#xdebugger.evaluate/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1612685885068" />
+    <state x="2243" y="142" key="CommitChangelistDialog2" timestamp="1612686328921">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2243" y="142" key="CommitChangelistDialog2/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1612686328921" />
+    <state x="2660" y="280" key="FileChooserDialogImpl" timestamp="1614246938878">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1611556457590" />
+    <state x="2660" y="280" key="FileChooserDialogImpl/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1614246938878" />
+    <state width="517" height="671" key="Git.Branch.Popup" timestamp="1612686188244">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="517" height="671" key="Git.Branch.Popup/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1612686188244" />
+    <state width="1877" height="365" key="GridCell.Tab.0.bottom" timestamp="1612686870588">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1611469721904" />
+    <state width="1877" height="365" key="GridCell.Tab.0.bottom/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1612686870588" />
+    <state width="1877" height="365" key="GridCell.Tab.0.center" timestamp="1612686870588">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1611469721903" />
+    <state width="1877" height="365" key="GridCell.Tab.0.center/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1612686870588" />
+    <state width="1877" height="365" key="GridCell.Tab.0.left" timestamp="1612686870588">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1611469721903" />
+    <state width="1877" height="365" key="GridCell.Tab.0.left/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1612686870588" />
+    <state width="1877" height="365" key="GridCell.Tab.0.right" timestamp="1612686870588">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1611469721903" />
+    <state width="1877" height="365" key="GridCell.Tab.0.right/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1612686870588" />
+    <state width="1877" height="365" key="GridCell.Tab.1.bottom" timestamp="1612686870589">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1611469721904" />
+    <state width="1877" height="365" key="GridCell.Tab.1.bottom/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1612686870589" />
+    <state width="1877" height="365" key="GridCell.Tab.1.center" timestamp="1612686870589">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1611469721904" />
+    <state width="1877" height="365" key="GridCell.Tab.1.center/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1612686870589" />
+    <state width="1877" height="365" key="GridCell.Tab.1.left" timestamp="1612686870588">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1611469721904" />
+    <state width="1877" height="365" key="GridCell.Tab.1.left/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1612686870588" />
+    <state width="1877" height="365" key="GridCell.Tab.1.right" timestamp="1612686870589">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1611469721904" />
+    <state width="1877" height="365" key="GridCell.Tab.1.right/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1612686870589" />
+    <state width="1877" height="365" key="GridCell.Tab.2.bottom" timestamp="1612686870589">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1611469721904" />
+    <state width="1877" height="365" key="GridCell.Tab.2.bottom/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1612686870589" />
+    <state width="1877" height="365" key="GridCell.Tab.2.center" timestamp="1612686870589">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1611469721904" />
+    <state width="1877" height="365" key="GridCell.Tab.2.center/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1612686870589" />
+    <state width="1877" height="365" key="GridCell.Tab.2.left" timestamp="1612686870589">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1611469721904" />
+    <state width="1877" height="365" key="GridCell.Tab.2.left/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1612686870589" />
+    <state width="1877" height="365" key="GridCell.Tab.2.right" timestamp="1612686870589">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1611469721904" />
+    <state width="1877" height="365" key="GridCell.Tab.2.right/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1612686870589" />
+    <state x="2460" y="259" key="IDE.errors.dialog" timestamp="1610439506996">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2460" y="259" key="IDE.errors.dialog/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1610439506996" />
+    <state x="2451" y="187" key="Registry" timestamp="1611282551113">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2451" y="187" key="Registry/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1611282551113" />
+    <state x="2381" y="167" key="SettingsEditor" timestamp="1611282825758">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2381" y="167" key="SettingsEditor/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1611282825758" />
+    <state x="2760" y="441" key="VCS.EditChangelistDialog" timestamp="1612686175884">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2760" y="441" key="VCS.EditChangelistDialog/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1612686175884" />
+    <state x="2472" y="258" key="Vcs.Push.Dialog.v2" timestamp="1612686336033">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2472" y="258" key="Vcs.Push.Dialog.v2/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1612686336033" />
+    <state x="2560" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1612227806945">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2560" y="349" key="com.intellij.ide.util.TipDialog/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1612227806945" />
+    <state x="2627" y="227" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1610443057724">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2627" y="227" key="com.intellij.testIntegration.createTest.CreateTestDialog/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1610443057724" />
+    <state x="2568" y="237" key="git4idea.branch.GitSmartOperationDialog" timestamp="1612686190421">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2568" y="237" key="git4idea.branch.GitSmartOperationDialog/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1612686190421" />
+    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1610440213152">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1610440213152" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/springboot_restful$SpringbootApplication.ic" NAME="SpringbootApplication Coverage Results" MODIFIED="1612173262153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
