@@ -1,5 +1,5 @@
-# springboot-restful
-a springboot project with restful api
+# lite tree
+致力于实现一个，项目管理系统
 
 目标：用restful方式实现最基本的增删改查接口
 
