@@ -5,6 +5,5 @@ a springboot project with restful api
 
 完成时间：21-02-07
 
-目标：添加前端页面
-添加angular前端页面，实现基本增删改查功能
+目标：添加angular前端页面，实现基本增删改查功能
 
